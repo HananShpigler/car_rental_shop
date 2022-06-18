@@ -1,13 +1,13 @@
 # Car Rental Shop
 ***An online car rental store that includes a wide variety of options.***
 
-<img src="./images/1.png" width=400>
-<img src="./images/2.png" width=400>
-<img src="./images/3.png" width=400>
-<img src="./images/4.png" width=400>
-<img src="./images/5.png" width=400>
-<img src="./images/6.png" width=400>
-<img src="./images/7.png" width=400>
+<img src="./images/1.PNG" width=400>
+<img src="./images/2.PNG" width=400>
+<img src="./images/3.PNG" width=400>
+<img src="./images/4.PNG"width=400>
+<img src="./images/5.PNG" width=400>
+<img src="./images/6.PNG" width=400>
+<img src="./images/7.PNG" width=400>
 
 ## Instructions
 ##### 1. Clone ***( using `git clone` )*** or Download the folder ***( using ***`Download ZIP`*** option )*** #####
