@@ -1,0 +1,1 @@
+export const GET_ALL_BOOKINGS = "GET_ALL_BOOKINGS";
